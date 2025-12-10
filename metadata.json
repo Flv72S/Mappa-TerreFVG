@@ -1,0 +1,7 @@
+{
+  "name": "Mappa TerreFVG",
+  "description": "Mappa interattiva delle aziende TerreFVG con Concierge AI per percorsi enogastronomici.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
